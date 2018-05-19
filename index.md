@@ -1,4 +1,12 @@
-# hello world
+# こんにちは世界
+---
 
-this is a test for creating markdown page and creating my page.
+## description
+---
 
+そこいらの学生です。  
+競技プログラミングに興味がありますが、趣味なので全然精進していません。  
+
+## accounts
+Twitter : [@Shinj1row](https://twitter.com/Shinj1row)  
+AtCoder : [Shinjirow](https://beta.atcoder.jp/users/Shinjirow)  
